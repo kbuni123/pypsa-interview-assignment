@@ -1,0 +1,11 @@
+name: pypsa-assignment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pypsa>=1.0
+  - highspy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - ipykernel
